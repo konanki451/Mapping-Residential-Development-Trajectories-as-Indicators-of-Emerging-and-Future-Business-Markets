@@ -102,9 +102,9 @@ EMS_i = 0.40GM_i + 0.30DI_i + 0.30MS_i
 
 Where:
 
-- \(G_i\) = normalized Growth Momentum score for metropolitan area \(i\).
-- \(D_i\) = normalized Development Intensity score.
-- \(S_i\) = normalized Market Scale score.
+- \(GM_i\) = normalized Growth Momentum score for metropolitan area \(i\).
+- \(DI_i\) = normalized Development Intensity score.
+- \(SI_i\) = normalized Market Scale score.
 
 Each component should be placed on a comparable scale before weighting. A percentile-based 0–100 normalization provides one suitable approach for comparing metropolitan areas.
 
